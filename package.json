@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "private": true,
+  "scripts": {
+    "build": "node ./node_modules/gulp/bin/gulp.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chrismessiah/sample-node-api.git"
