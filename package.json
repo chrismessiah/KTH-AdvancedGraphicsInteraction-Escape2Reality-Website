@@ -4,9 +4,6 @@
   "description": "",
   "main": "index.js",
   "private": true,
-  "scripts": {
-    "start": "./script-start"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chrismessiah/sample-node-api.git"
@@ -47,8 +44,5 @@
     "scrollreveal": "^3.3.6",
     "slick-carousel": "^1.8.1",
     "sweetalert": "^2.0.3"
-  },
-  "engines": {
-    "node": "^8.11.2"
   }
 }
